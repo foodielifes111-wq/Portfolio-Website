@@ -53,7 +53,7 @@ body{
 .menu-btn{
     width:55px;
     height:55px;
-    background:linear-gradient(135deg,#FF4D9D,#8B5CF6);
+    background:linear-gradient(135deg,#FF4D9D,#8a5cf6);
     border:none;
     color:#fff;
     font-size:22px;
@@ -87,7 +87,7 @@ body{
 }
 
 .hero-text h1 span{
-    background:linear-gradient(135deg,#FF4D9D,#8B5CF6);
+    background:linear-gradient(135deg,#ff4d9df3,#f65cee7c);
     background-clip:text;
     -webkit-text-fill-color:transparent;
 }
